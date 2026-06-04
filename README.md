@@ -9,7 +9,7 @@ It allows you to send messages, track delivery status, and integrate your phone 
 
 Both versions are actively maintained and available for download:
 
-### 🚀 Version 13 (Recommended)
+### 🚀 Version 13 (SMS, WhatsApp, RCS)
 - **Android:** 12+
 - **Status:** Current / actively developed
 - **Features:** Extended messaging support (SMS, RCS, WhatsApp*), improved performance and stability
@@ -19,7 +19,7 @@ Both versions are actively maintained and available for download:
 
 ---
 
-### 🧩 Version 12 (Legacy Support)
+### 🧩 Version 12 (SMS only)
 - **Android:** 7 – 13
 - **Status:** Supported (for older devices)
 - **Features:** Stable SMS gateway functionality
